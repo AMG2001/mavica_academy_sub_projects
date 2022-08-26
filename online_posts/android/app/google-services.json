@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202336806401",
+    "project_id": "online-posts-app",
+    "storage_bucket": "online-posts-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202336806401:android:ef7f9f8b3ad9e7f70d8200",
+        "android_client_info": {
+          "package_name": "com.example.online_posts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202336806401-qtpdhcsngunamto6h5l95fmfuof3umbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlNjSZy3MWcO_5iU3SNhxPUXfHtJu_gRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202336806401-qtpdhcsngunamto6h5l95fmfuof3umbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
